@@ -1,0 +1,8 @@
+{
+  "name": "sigh.",
+  "description": "Competence is a luxury. An AI command center for elite content creation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
